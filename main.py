@@ -1,11 +1,8 @@
 # Módulos externos
 import logging
 from colorama import init, Fore, Style
-
-from src.date import dateFormatted
-
-
 init()
+from src.date import dateFormatted
 from datetime import datetime
 
 # Módulos internos
