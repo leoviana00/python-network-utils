@@ -1,5 +1,5 @@
 ## 🌱 Projeto
-
+- Projeto para buscar portas abertas em um host, realizar teste de ping em uma determinada faixa de rede e realizar teste de health check em uma url.
 
 ## ✨ Tecnologias
 
